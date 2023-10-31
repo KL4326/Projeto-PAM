@@ -1,8 +1,8 @@
 import React from "react";
-import { Home } from "./src";
+import { SignIn } from "./pages/SignIn";
 
 export default function App() {
   return (
-    <Home/>
+    <SignIn/>
   );
 }

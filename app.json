@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "Pam-project",
-    "slug": "Pam-project",
+    "name": "aula-signin-signup",
+    "slug": "aula-signin-signup",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
